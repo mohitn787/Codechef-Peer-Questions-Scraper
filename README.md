@@ -1,5 +1,5 @@
 # Codechef-Peer-Questions-Scraper
-It will give an array of the questions which isn't sokved by you but is solved by your frfined will be shown.
+It will give an array of the questions which isn't solved by you but is solved by your friend will be shown.
 
 
 
